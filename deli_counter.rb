@@ -24,4 +24,5 @@ def now_serving(line)
     puts "The line is currently empty."
   else
     puts "Currently serving #{line.shift}."
+  end
 end
