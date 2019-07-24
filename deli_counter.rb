@@ -10,4 +10,5 @@ def line(line)
       line_string += "#{i}. #{name} "
       i += 1 
     end
+  end
 end
